@@ -35,8 +35,8 @@ class TransactionList extends StatelessWidget {
                 return Card(
                   elevation: 5,
                   margin: EdgeInsets.symmetric(
-                    vertical: 8,
-                    horizontal: 5,
+                    vertical: 14,
+                    horizontal: 6,
                   ),
                   child: ListTile(
                     leading: CircleAvatar(
